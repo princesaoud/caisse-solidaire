@@ -3,6 +3,33 @@ import { useState } from "react";
 import { useRouter } from "next/navigation";
 import { createClient } from "@/lib/supabase/client";
 
+function LoadingDialog() {
+  return (
+    <div className="fixed inset-0 z-50 flex items-center justify-center">
+      {/* Backdrop */}
+      <div className="absolute inset-0 bg-black/40 backdrop-blur-sm" />
+
+      {/* Dialog */}
+      <div className="relative bg-white rounded-2xl shadow-2xl px-10 py-8 flex flex-col items-center gap-4 min-w-[260px] animate-[fadeInScale_0.2s_ease-out]">
+        {/* Spinner */}
+        <div className="w-14 h-14 rounded-full border-4 border-gray-200 border-t-blue-600 animate-spin" />
+
+        <div className="text-center">
+          <p className="text-gray-800 font-semibold text-base">Connexion en cours…</p>
+          <p className="text-gray-400 text-sm mt-1">Veuillez patienter</p>
+        </div>
+      </div>
+
+      <style>{`
+        @keyframes fadeInScale {
+          from { opacity: 0; transform: scale(0.85); }
+          to   { opacity: 1; transform: scale(1); }
+        }
+      `}</style>
+    </div>
+  );
+}
+
 export default function LoginPage() {
   const router = useRouter();
   const [username, setUsername] = useState("");
@@ -55,13 +82,14 @@ export default function LoginPage() {
       }
     } catch {
       setError("Une erreur est survenue. Veuillez réessayer.");
-    } finally {
       setLoading(false);
     }
   }
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-brand-700 to-brand-900 flex items-center justify-center p-4">
+      {loading && <LoadingDialog />}
+
       <div className="bg-white rounded-2xl shadow-2xl w-full max-w-md p-8">
         {/* Header */}
         <div className="text-center mb-8">
@@ -86,6 +114,7 @@ export default function LoginPage() {
               placeholder="Votre identifiant"
               required
               autoComplete="username"
+              disabled={loading}
             />
           </div>
           <div>
@@ -98,6 +127,7 @@ export default function LoginPage() {
               placeholder="••••••••"
               required
               autoComplete="current-password"
+              disabled={loading}
             />
           </div>
 
@@ -112,7 +142,7 @@ export default function LoginPage() {
             disabled={loading}
             className="w-full bg-brand-600 hover:bg-brand-700 disabled:bg-brand-300 text-white font-semibold py-3 px-4 rounded-lg transition-colors"
           >
-            {loading ? "Connexion en cours…" : "Se connecter"}
+            Se connecter
           </button>
         </form>
 
