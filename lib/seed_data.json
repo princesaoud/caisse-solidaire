@@ -1,0 +1,5066 @@
+[
+  {
+    "username": "alao_myriam",
+    "full_name": "ALAO Myriam",
+    "group": "alhassane",
+    "role": "user",
+    "payments": [
+      {
+        "year": 2025,
+        "month": 1,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 2,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 3,
+        "status": "paid",
+        "amount": 3000.0
+      },
+      {
+        "year": 2025,
+        "month": 4,
+        "status": "paid",
+        "amount": 3000.0
+      },
+      {
+        "year": 2025,
+        "month": 5,
+        "status": "paid",
+        "amount": 2500.0
+      },
+      {
+        "year": 2025,
+        "month": 6,
+        "status": "paid",
+        "amount": 2500.0
+      },
+      {
+        "year": 2025,
+        "month": 7,
+        "status": "paid",
+        "amount": 2500.0
+      },
+      {
+        "year": 2025,
+        "month": 8,
+        "status": "paid",
+        "amount": 2500.0
+      },
+      {
+        "year": 2025,
+        "month": 9,
+        "status": "paid",
+        "amount": 2500.0
+      },
+      {
+        "year": 2025,
+        "month": 10,
+        "status": "paid",
+        "amount": 2500.0
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "status": "paid",
+        "amount": 2500.0
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "status": "paid",
+        "amount": 2500.0
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "status": "paid",
+        "amount": 3000.0
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "status": "paid",
+        "amount": 3000.0
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "status": "paid",
+        "amount": 3000.0
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "status": "paid",
+        "amount": 3000.0
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "status": "pending",
+        "amount": null
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "username": "amon_serges",
+    "full_name": "AMON Serges",
+    "group": "alhassane",
+    "role": "user",
+    "payments": [
+      {
+        "year": 2025,
+        "month": 1,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 2,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 3,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 4,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 5,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 6,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 7,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 8,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 9,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 10,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "status": "exempt",
+        "amount": null
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "username": "badiane_hafsatou",
+    "full_name": "BADIANE Hafsatou",
+    "group": "alhassane",
+    "role": "user",
+    "payments": [
+      {
+        "year": 2025,
+        "month": 1,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 2,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 3,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 4,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 5,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 6,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 7,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 8,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 9,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 10,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "status": "pending",
+        "amount": null
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "username": "bla_sonia",
+    "full_name": "BLA Sonia",
+    "group": "alhassane",
+    "role": "user",
+    "payments": [
+      {
+        "year": 2025,
+        "month": 1,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 2,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 3,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 4,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 5,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 6,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 7,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 8,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 9,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 10,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "status": "pending",
+        "amount": null
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "username": "bongai_henri-joel",
+    "full_name": "BONGAI Henri-Joël",
+    "group": "alhassane",
+    "role": "user",
+    "payments": [
+      {
+        "year": 2025,
+        "month": 1,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 2,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 3,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 4,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 5,
+        "status": "paid",
+        "amount": 1000.0
+      },
+      {
+        "year": 2025,
+        "month": 6,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 7,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 8,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 9,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 10,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "status": "pending",
+        "amount": null
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "username": "brou_amelie",
+    "full_name": "BROU Amélie",
+    "group": "alhassane",
+    "role": "user",
+    "payments": [
+      {
+        "year": 2025,
+        "month": 1,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 2,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 3,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 4,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 5,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 6,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 7,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 8,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 9,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 10,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "status": "paid",
+        "amount": 2000.0
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "username": "camara_alexandre",
+    "full_name": "CAMARA Alexandre",
+    "group": "alhassane",
+    "role": "user",
+    "payments": [
+      {
+        "year": 2025,
+        "month": 1,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 2,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 3,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 4,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 5,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 6,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 7,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 8,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 9,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 10,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "status": "pending",
+        "amount": null
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "username": "dali_toussaint",
+    "full_name": "DALI Toussaint",
+    "group": "alhassane",
+    "role": "user",
+    "payments": [
+      {
+        "year": 2025,
+        "month": 1,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 2,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 3,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 4,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 5,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 6,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 7,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 8,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 9,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 10,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "status": "pending",
+        "amount": null
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "username": "emmanuelle",
+    "full_name": "Emmanuelle",
+    "group": "alhassane",
+    "role": "user",
+    "payments": [
+      {
+        "year": 2025,
+        "month": 1,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 2,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 3,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 4,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 5,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 6,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 7,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 8,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 9,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 10,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "status": "pending",
+        "amount": null
+      }
+    ],
+    "comment": "2000 F payés le 19/03 pour Février 2026 / 4000 F payés le 30/04 pour Mars et Avril 2026"
+  },
+  {
+    "username": "fadiga_alhassane",
+    "full_name": "FADIGA Alhassane",
+    "group": "alhassane",
+    "role": "admin",
+    "payments": [
+      {
+        "year": 2025,
+        "month": 1,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 2,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 3,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 4,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 5,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 6,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 7,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 8,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 9,
+        "status": "paid",
+        "amount": 2500.0
+      },
+      {
+        "year": 2025,
+        "month": 10,
+        "status": "paid",
+        "amount": 2500.0
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "status": "paid",
+        "amount": 2500.0
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "status": "paid",
+        "amount": 2500.0
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "status": "paid",
+        "amount": 2500.0
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "status": "paid",
+        "amount": 2500.0
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "status": "paid",
+        "amount": 2500.0
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "status": "paid",
+        "amount": 2500.0
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "status": "pending",
+        "amount": null
+      }
+    ],
+    "comment": "10000 F payés le 24/03 pour Janv à Avril 2026"
+  },
+  {
+    "username": "harouna_yacine",
+    "full_name": "HAROUNA Yacine",
+    "group": "alhassane",
+    "role": "user",
+    "payments": [
+      {
+        "year": 2025,
+        "month": 1,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 2,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 3,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 4,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 5,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 6,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 7,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 8,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 9,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 10,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "status": "pending",
+        "amount": null
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "username": "kah_jean-michel",
+    "full_name": "KAH Jean-michel",
+    "group": "alhassane",
+    "role": "user",
+    "payments": [
+      {
+        "year": 2025,
+        "month": 1,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 2,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 3,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 4,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 5,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 6,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 7,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 8,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 9,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 10,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "status": "paid",
+        "amount": 1000.0
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "status": "pending",
+        "amount": null
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "username": "kone_mamadou",
+    "full_name": "KONE Mamadou",
+    "group": "alhassane",
+    "role": "user",
+    "payments": [
+      {
+        "year": 2025,
+        "month": 1,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 2,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 3,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 4,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 5,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 6,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 7,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 8,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 9,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 10,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "status": "paid",
+        "amount": 1000.0
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "status": "pending",
+        "amount": null
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "username": "kouadio_amani",
+    "full_name": "KOUADIO Amani",
+    "group": "alhassane",
+    "role": "user",
+    "payments": [
+      {
+        "year": 2025,
+        "month": 1,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 2,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 3,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 4,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 5,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 6,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 7,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 8,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 9,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 10,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "status": "exempt",
+        "amount": null
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "username": "kouassi_stephane",
+    "full_name": "KOUASSI Stéphane",
+    "group": "alhassane",
+    "role": "user",
+    "payments": [
+      {
+        "year": 2025,
+        "month": 1,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 2,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 3,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 4,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 5,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 6,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 7,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 8,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 9,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 10,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "status": "pending",
+        "amount": null
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "username": "n'guessan_brice",
+    "full_name": "N'GUESSAN Brice",
+    "group": "alhassane",
+    "role": "user",
+    "payments": [
+      {
+        "year": 2025,
+        "month": 1,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 2,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 3,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 4,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 5,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 6,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 7,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 8,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 9,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 10,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "status": "paid",
+        "amount": 1000.0
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "status": "pending",
+        "amount": null
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "username": "sie_joel",
+    "full_name": "SIE Joël",
+    "group": "alhassane",
+    "role": "user",
+    "payments": [
+      {
+        "year": 2025,
+        "month": 1,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 2,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 3,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 4,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 5,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 6,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 7,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 8,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 9,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 10,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "status": "pending",
+        "amount": null
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "username": "sie_konan",
+    "full_name": "SIE KONAN",
+    "group": "alhassane",
+    "role": "user",
+    "payments": [
+      {
+        "year": 2025,
+        "month": 1,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 2,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 3,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 4,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 5,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 6,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 7,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 8,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 9,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 10,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "status": "pending",
+        "amount": null
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "username": "tiemele_yoram",
+    "full_name": "TIEMELE Yoram",
+    "group": "alhassane",
+    "role": "user",
+    "payments": [
+      {
+        "year": 2025,
+        "month": 1,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 2,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 3,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 4,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 5,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 6,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 7,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 8,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 9,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 10,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "status": "pending",
+        "amount": null
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "username": "yangangoussou_cedrique",
+    "full_name": "YANGANGOUSSOU Cédrique",
+    "group": "alhassane",
+    "role": "user",
+    "payments": [
+      {
+        "year": 2025,
+        "month": 1,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 2,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 3,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 4,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 5,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 6,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 7,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 8,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 9,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 10,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "status": "pending",
+        "amount": null
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "username": "yangangoussou_ursula",
+    "full_name": "YANGANGOUSSOU Ursula",
+    "group": "alhassane",
+    "role": "user",
+    "payments": [
+      {
+        "year": 2025,
+        "month": 1,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 2,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 3,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 4,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 5,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 6,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 7,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 8,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 9,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 10,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "status": "pending",
+        "amount": null
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "username": "yao_sandrin",
+    "full_name": "YAO Sandrin",
+    "group": "alhassane",
+    "role": "user",
+    "payments": [
+      {
+        "year": 2025,
+        "month": 1,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 2,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 3,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 4,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 5,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 6,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 7,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 8,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 9,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 10,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "status": "pending",
+        "amount": null
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "username": "zoungrana_delphin",
+    "full_name": "ZOUNGRANA Delphin",
+    "group": "alhassane",
+    "role": "user",
+    "payments": [
+      {
+        "year": 2025,
+        "month": 1,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 2,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 3,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 4,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 5,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 6,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 7,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 8,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 9,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 10,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 3,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 4,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "status": "exempt",
+        "amount": null
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "username": "roseline",
+    "full_name": "Roseline",
+    "group": "youssouf",
+    "role": "user",
+    "payments": [
+      {
+        "year": 2025,
+        "month": 3,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 4,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 5,
+        "status": "paid",
+        "amount": 1000.0
+      },
+      {
+        "year": 2025,
+        "month": 6,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 7,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 8,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 9,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 10,
+        "status": "paid",
+        "amount": 3000.0
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 1,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 2,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "status": "pending",
+        "amount": null
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "username": "boitini",
+    "full_name": "Boitini",
+    "group": "youssouf",
+    "role": "user",
+    "payments": [
+      {
+        "year": 2025,
+        "month": 3,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 4,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 5,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 6,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 7,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 8,
+        "status": "paid",
+        "amount": 1000.0
+      },
+      {
+        "year": 2025,
+        "month": 9,
+        "status": "paid",
+        "amount": 3000.0
+      },
+      {
+        "year": 2025,
+        "month": 10,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 1,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 2,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "status": "pending",
+        "amount": null
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "username": "oumar",
+    "full_name": "Oumar",
+    "group": "youssouf",
+    "role": "user",
+    "payments": [
+      {
+        "year": 2025,
+        "month": 3,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 4,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 5,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 6,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 7,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 8,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 9,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 10,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 1,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 2,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "status": "pending",
+        "amount": null
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "username": "vivien",
+    "full_name": "Vivien",
+    "group": "youssouf",
+    "role": "user",
+    "payments": [
+      {
+        "year": 2025,
+        "month": 3,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 4,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 5,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 6,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 7,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 8,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 1,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 2,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 9,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 10,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "status": "pending",
+        "amount": null
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "username": "amara",
+    "full_name": "Amara",
+    "group": "youssouf",
+    "role": "user",
+    "payments": [
+      {
+        "year": 2025,
+        "month": 3,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 4,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 5,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 6,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 7,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 8,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 9,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 10,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 1,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 2,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "status": "pending",
+        "amount": null
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "username": "philomene",
+    "full_name": "Philomène",
+    "group": "youssouf",
+    "role": "user",
+    "payments": [
+      {
+        "year": 2025,
+        "month": 3,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 4,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 5,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 6,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 7,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 8,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 9,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 10,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 1,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 2,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "status": "pending",
+        "amount": null
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "username": "mme_ebequoi",
+    "full_name": "Mme. Ebequoi",
+    "group": "youssouf",
+    "role": "user",
+    "payments": [
+      {
+        "year": 2025,
+        "month": 3,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 4,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 5,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 6,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 1,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 2,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 7,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 8,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 9,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 10,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "status": "pending",
+        "amount": null
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "username": "arsene",
+    "full_name": "Arsène",
+    "group": "youssouf",
+    "role": "user",
+    "payments": [
+      {
+        "year": 2025,
+        "month": 3,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 4,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 5,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 6,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 7,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 8,
+        "status": "paid",
+        "amount": 1000.0
+      },
+      {
+        "year": 2025,
+        "month": 9,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 10,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 1,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 2,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "status": "pending",
+        "amount": null
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "username": "youssouf",
+    "full_name": "Youssouf",
+    "group": "youssouf",
+    "role": "admin",
+    "payments": [
+      {
+        "year": 2025,
+        "month": 3,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 4,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 5,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 6,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 7,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 8,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 9,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 10,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 1,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 2,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "status": "pending",
+        "amount": null
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "username": "doriane",
+    "full_name": "Doriane",
+    "group": "youssouf",
+    "role": "user",
+    "payments": [
+      {
+        "year": 2025,
+        "month": 3,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 4,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 5,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 6,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 7,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 8,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 9,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 10,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 1,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 2,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "status": "pending",
+        "amount": null
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "username": "cedric-emmanuella",
+    "full_name": "Cedric-Emmanuella",
+    "group": "youssouf",
+    "role": "user",
+    "payments": [
+      {
+        "year": 2025,
+        "month": 3,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 4,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 5,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 6,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 7,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 8,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 9,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 10,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 1,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 2,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "status": "pending",
+        "amount": null
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "username": "olivia",
+    "full_name": "Olivia",
+    "group": "youssouf",
+    "role": "user",
+    "payments": [
+      {
+        "year": 2025,
+        "month": 3,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 4,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 5,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 6,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 7,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 8,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 9,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 10,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 1,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 2,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "status": "pending",
+        "amount": null
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "username": "fabien",
+    "full_name": "Fabien",
+    "group": "youssouf",
+    "role": "user",
+    "payments": [
+      {
+        "year": 2025,
+        "month": 3,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 4,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 5,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 6,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 1,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 2,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 7,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 8,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 9,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 10,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "status": "pending",
+        "amount": null
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "username": "ulrich",
+    "full_name": "Ulrich",
+    "group": "youssouf",
+    "role": "user",
+    "payments": [
+      {
+        "year": 2025,
+        "month": 3,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 4,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 5,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 6,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 7,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 8,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 9,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 10,
+        "status": "paid",
+        "amount": 1000.0
+      },
+      {
+        "year": 2025,
+        "month": 1,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 2,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "status": "pending",
+        "amount": null
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "username": "martial",
+    "full_name": "Martial",
+    "group": "youssouf",
+    "role": "user",
+    "payments": [
+      {
+        "year": 2025,
+        "month": 3,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 4,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 5,
+        "status": "paid",
+        "amount": 1000.0
+      },
+      {
+        "year": 2025,
+        "month": 6,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 7,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 8,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 1,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 2,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 9,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 10,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "status": "pending",
+        "amount": null
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "username": "hermann",
+    "full_name": "Hermann",
+    "group": "youssouf",
+    "role": "user",
+    "payments": [
+      {
+        "year": 2025,
+        "month": 3,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 4,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 5,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 6,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 7,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 8,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 9,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 10,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 1,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 2,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "status": "pending",
+        "amount": null
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "username": "isabelle",
+    "full_name": "Isabelle",
+    "group": "youssouf",
+    "role": "user",
+    "payments": [
+      {
+        "year": 2025,
+        "month": 3,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 4,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 5,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 1,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 2,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 6,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 7,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 8,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 9,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 10,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "status": "pending",
+        "amount": null
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "username": "irene",
+    "full_name": "Irène",
+    "group": "youssouf",
+    "role": "user",
+    "payments": [
+      {
+        "year": 2025,
+        "month": 3,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 4,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 5,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 6,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 1,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 2,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 7,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 8,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 9,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 10,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "status": "pending",
+        "amount": null
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "username": "diabate",
+    "full_name": "Diabate",
+    "group": "youssouf",
+    "role": "user",
+    "payments": [
+      {
+        "year": 2025,
+        "month": 3,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 4,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 5,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 6,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 7,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 8,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 9,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 10,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 1,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 2,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "status": "pending",
+        "amount": null
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "username": "ibo_landry",
+    "full_name": "Ibo Landry",
+    "group": "youssouf",
+    "role": "user",
+    "payments": [
+      {
+        "year": 2025,
+        "month": 3,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 4,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 5,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 6,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 7,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 8,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 9,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 10,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 1,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 2,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "status": "pending",
+        "amount": null
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "username": "ivan",
+    "full_name": "Ivan",
+    "group": "youssouf",
+    "role": "user",
+    "payments": [
+      {
+        "year": 2025,
+        "month": 3,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 4,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 5,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 6,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 7,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 8,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 9,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 10,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 1,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 2,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "status": "pending",
+        "amount": null
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "username": "bakary",
+    "full_name": "Bakary",
+    "group": "youssouf",
+    "role": "user",
+    "payments": [
+      {
+        "year": 2025,
+        "month": 3,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 4,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 5,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 6,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 7,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 8,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 9,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 10,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 1,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 2,
+        "status": "pending",
+        "amount": null
+      }
+    ],
+    "comment": "2000.0"
+  },
+  {
+    "username": "yves",
+    "full_name": "Yves",
+    "group": "youssouf",
+    "role": "user",
+    "payments": [
+      {
+        "year": 2025,
+        "month": 3,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 4,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 5,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 6,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 7,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 8,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 9,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 10,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 1,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 2,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "status": "pending",
+        "amount": null
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "username": "bernice",
+    "full_name": "Bernice",
+    "group": "youssouf",
+    "role": "user",
+    "payments": [
+      {
+        "year": 2025,
+        "month": 3,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 4,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 5,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 6,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 7,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 8,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 1,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 2,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 9,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 10,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "status": "pending",
+        "amount": null
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "username": "edwige",
+    "full_name": "Edwige",
+    "group": "youssouf",
+    "role": "user",
+    "payments": [
+      {
+        "year": 2025,
+        "month": 3,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 4,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 5,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 6,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 7,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 8,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 9,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 10,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 1,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 2,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "status": "pending",
+        "amount": null
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "username": "gaelle",
+    "full_name": "Gaelle",
+    "group": "youssouf",
+    "role": "user",
+    "payments": [
+      {
+        "year": 2025,
+        "month": 3,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 4,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 5,
+        "status": "exempt",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 1,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 2,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 6,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 7,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 8,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 9,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 10,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "status": "pending",
+        "amount": null
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "username": "amorse",
+    "full_name": "Amorse",
+    "group": "youssouf",
+    "role": "user",
+    "payments": [
+      {
+        "year": 2025,
+        "month": 3,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 4,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 5,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 6,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 7,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 8,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 9,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 10,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "status": "paid",
+        "amount": 2000.0
+      },
+      {
+        "year": 2025,
+        "month": 1,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 2,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "status": "pending",
+        "amount": null
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "status": "pending",
+        "amount": null
+      }
+    ],
+    "comment": ""
+  }
+]
