@@ -26,39 +26,34 @@ export async function middleware(request: NextRequest) {
   const { data: { user } } = await supabase.auth.getUser();
   const { pathname } = request.nextUrl;
 
-  const publicPaths = ["/login", "/api/"];
-  const isPublic = publicPaths.some((p) => pathname.startsWith(p));
+  // Public paths: no auth required
+  const isPublic =
+    pathname.startsWith("/login") ||
+    pathname.startsWith("/api/");
 
-  // Helper: redirect while preserving Supabase session cookies
-  function redirectWith(url: URL) {
-    const res = NextResponse.redirect(url);
-    supabaseResponse.cookies.getAll().forEach((cookie) => {
-      res.cookies.set(cookie.name, cookie.value, cookie as object);
-    });
-    return res;
-  }
-
+  // Unauthenticated user trying to reach a protected page → send to login
   if (!user && !isPublic) {
-    return redirectWith(new URL("/login", request.url));
+    const url = request.nextUrl.clone();
+    url.pathname = "/login";
+    return NextResponse.redirect(url);
   }
 
-  if (user && pathname === "/login") {
-    return redirectWith(new URL("/dashboard", request.url));
-  }
-
-  // Protect /admin routes
-  if (pathname.startsWith("/admin")) {
+  // Protect /admin routes: only admins allowed
+  if (user && pathname.startsWith("/admin")) {
     const { data: profile } = await supabase
       .from("profiles")
       .select("role")
-      .eq("user_id", user!.id)
+      .eq("user_id", user.id)
       .single();
 
     if (!profile || profile.role !== "admin") {
-      return redirectWith(new URL("/dashboard", request.url));
+      const url = request.nextUrl.clone();
+      url.pathname = "/dashboard";
+      return NextResponse.redirect(url);
     }
   }
 
+  // Always return supabaseResponse so session cookies are refreshed
   return supabaseResponse;
 }
 
