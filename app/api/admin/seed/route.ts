@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
-import { createClient, createAdminClient } from "@/lib/supabase/server";
+import { createAdminClient } from "@/lib/supabase/server";
 import seedData from "@/lib/seed_data.json";
 
 const DEFAULT_PASSWORD = "Cotisation2025!";
@@ -12,7 +12,6 @@ export async function POST(req: NextRequest) {
   }
 
   const adminClient = createAdminClient();
-  const supabase = createClient();
 
   const results: string[] = [];
   let created = 0, skipped = 0, errors = 0;
@@ -42,7 +41,7 @@ export async function POST(req: NextRequest) {
       const userId = authData.user!.id;
 
       // Create profile
-      const { data: profile, error: profileError } = await supabase.from("profiles").insert({
+      const { data: profile, error: profileError } = await adminClient.from("profiles").insert({
         user_id: userId,
         username: member.username,
         full_name: member.full_name,
@@ -71,7 +70,7 @@ export async function POST(req: NextRequest) {
         // Insert in batches
         for (let i = 0; i < cots.length; i += 50) {
           const batch = cots.slice(i, i + 50);
-          const { error: cotError } = await supabase.from("cotisations").upsert(batch, {
+          const { error: cotError } = await adminClient.from("cotisations").upsert(batch, {
             onConflict: "profile_id,year,month",
           });
           if (cotError) results.push(`WARN cotisations: ${member.username} - ${cotError.message}`);
