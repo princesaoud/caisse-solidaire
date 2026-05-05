@@ -27,18 +27,40 @@ export async function POST(req: NextRequest) {
         email_confirm: true,
       });
 
+      let userId: string;
+
       if (authError) {
         if (authError.message.includes("already been registered")) {
-          skipped++;
-          results.push(`SKIP: ${member.username} (already exists)`);
+          // Auth user exists — look up their ID so we can still create the profile
+          const { data: userList } = await adminClient.auth.admin.listUsers();
+          const existing = userList?.users.find(u => u.email === email);
+          if (!existing) {
+            errors++;
+            results.push(`ERROR: ${member.username} - could not find existing auth user`);
+            continue;
+          }
+          userId = existing.id;
+        } else {
+          errors++;
+          results.push(`ERROR: ${member.username} - ${authError.message}`);
           continue;
         }
-        errors++;
-        results.push(`ERROR: ${member.username} - ${authError.message}`);
-        continue;
+      } else {
+        userId = authData.user!.id;
       }
 
-      const userId = authData.user!.id;
+      // Check if profile already exists
+      const { data: existingProfile } = await adminClient
+        .from("profiles")
+        .select("id")
+        .eq("user_id", userId)
+        .single();
+
+      if (existingProfile) {
+        skipped++;
+        results.push(`SKIP: ${member.username} (profile already exists)`);
+        continue;
+      }
 
       // Create profile
       const { data: profile, error: profileError } = await adminClient.from("profiles").insert({
