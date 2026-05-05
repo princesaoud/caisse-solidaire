@@ -29,12 +29,21 @@ export async function middleware(request: NextRequest) {
   const publicPaths = ["/login", "/api/"];
   const isPublic = publicPaths.some((p) => pathname.startsWith(p));
 
+  // Helper: redirect while preserving Supabase session cookies
+  function redirectWith(url: URL) {
+    const res = NextResponse.redirect(url);
+    supabaseResponse.cookies.getAll().forEach((cookie) => {
+      res.cookies.set(cookie.name, cookie.value, cookie as object);
+    });
+    return res;
+  }
+
   if (!user && !isPublic) {
-    return NextResponse.redirect(new URL("/login", request.url));
+    return redirectWith(new URL("/login", request.url));
   }
 
   if (user && pathname === "/login") {
-    return NextResponse.redirect(new URL("/dashboard", request.url));
+    return redirectWith(new URL("/dashboard", request.url));
   }
 
   // Protect /admin routes
@@ -46,7 +55,7 @@ export async function middleware(request: NextRequest) {
       .single();
 
     if (!profile || profile.role !== "admin") {
-      return NextResponse.redirect(new URL("/dashboard", request.url));
+      return redirectWith(new URL("/dashboard", request.url));
     }
   }
 
