@@ -33,7 +33,7 @@ export async function POST(req: NextRequest) {
         if (authError.message.includes("already been registered")) {
           // Auth user exists — look up their ID so we can still create the profile
           const { data: userList } = await adminClient.auth.admin.listUsers();
-          const existing = userList?.users.find(u => u.email === email);
+          const existing = userList?.users.find((u: { id: string; email?: string }) => u.email === email);
           if (!existing) {
             errors++;
             results.push(`ERROR: ${member.username} - could not find existing auth user`);
