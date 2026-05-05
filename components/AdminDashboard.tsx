@@ -56,7 +56,7 @@ export default function AdminDashboardClient({ profiles, cotisations }: { profil
   // Monthly chart data (last 12 months)
   const monthlyData = useMemo(() => {
     const months: {label: string; collected: number; pending: number}[] = [];
-    const allYears = [...new Set(cotisations.map(c=>c.year))].sort();
+    const allYears = Array.from(new Set(cotisations.map(c=>c.year))).sort();
     const pairs: {year:number;month:number}[] = [];
     for (const yr of allYears) {
       for (let mo=1; mo<=12; mo++) {
