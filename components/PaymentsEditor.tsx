@@ -38,7 +38,7 @@ export default function PaymentsEditor({ profiles, cotisations: initial }: { pro
   const allPeriods = useMemo(() => {
     const periods = new Set<string>();
     cotisations.forEach(c => periods.add(`${c.year}-${c.month}`));
-    return [...periods].sort().map(p => {
+    return Array.from(periods).sort().map(p => {
       const [yr,mo] = p.split("-").map(Number);
       return { year: yr, month: mo };
     });
